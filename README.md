@@ -1,1 +1,1 @@
-![alt text](app/src/main/res/drawable/Screenshot.png)
+![alt text](Screenshot.png)
